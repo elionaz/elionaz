@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👨🏽‍🚀
 
 <!--
 **elionaz/elionaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```
+.___/\               .__  .__                             
+|   )/_____     ____ |  | |__| ____   ____ _____  ________
+|   |/     \  _/ __ \|  | |  |/  _ \ /    \\__  \ \___   /
+|   |  Y Y  \ \  ___/|  |_|  (  <_> )   |  \/ __ \_/    / 
+|___|__|_|  /  \___  >____/__|\____/|___|  (____  /_____ \
+          \/       \/                    \/     \/      \/
+```
+
+💰 Currently working __[@Resuelve](https://github.com/resuelve)__
+
+🚀 Personal stuff __[@Futurecorp](https://github.com/futur3corp)__
