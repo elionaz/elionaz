@@ -23,6 +23,6 @@ Here are some ideas to get you started:
           \/       \/                    \/     \/      \/
 ```
 
-💰 Currently working __[@Resuelve](https://github.com/resuelve)__
+💰 Currently not working 
 
 🚀 Personal stuff __[@Futurecorp](https://github.com/futur3corp)__
