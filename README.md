@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 ```
 
 🚀 Personal stuff __[@Futurecorp](https://github.com/futur3corp)__
+
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=elionaz)](https://www.last.fm/user/elionaz)
+
